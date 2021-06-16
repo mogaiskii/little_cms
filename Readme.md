@@ -3,3 +3,9 @@
 
 ## Notes:
 1. asyncpg находится в бете, но и асинк версия psycopg тоже
+
+
+## TODO:
+[ ] Dockerfile
+[ ] logging formatter
+[ ]
