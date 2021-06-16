@@ -6,6 +6,6 @@
 
 
 ## TODO:
-[ ] Dockerfile
-[ ] logging formatter
-[ ]
+- [ ] Dockerfile
+- [ ] logging formatter
+- [ ]
